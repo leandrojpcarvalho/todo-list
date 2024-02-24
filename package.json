@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "my first project from scratch, from todo list containing frontend and backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "TODO-LIST",
+    "CRUD",
+    "MONOREPO"
+  ],
+  "author": "leandro carvalho",
+  "license": "ISC"
+}
