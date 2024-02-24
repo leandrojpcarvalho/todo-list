@@ -10,7 +10,7 @@ my first project from scratch, from todo list containing frontend and backend
         ◦ Execute npm init para inicializar um novo projeto Node.js.
     3. Configuração do TypeScript:
         ◦ Instale o compilador TypeScript com npm i typescript.
-        ◦ Inicialize o arquivo de configuração do TypeScript com npm tsc --init.
+        ◦ Inicialize o arquivo de configuração do TypeScript com npx tsc --init.
     4. Instalação do Framework Express:
         ◦ Adicione o framework Express ao projeto com npm i express.
     5. Implementação da Primeira Rota:
